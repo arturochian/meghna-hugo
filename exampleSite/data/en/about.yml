@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Sobre BEST
+  title : Acerca de nosotros
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : ¿Qué hacemos?
