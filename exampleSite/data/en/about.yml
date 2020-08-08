@@ -1,11 +1,11 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Acerca de nosotros
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : ¿Qué hacemos?
-    content : Consultorías, productos, cursos, talleres, conferencias y más en Economía Conductual y Ciencia de Datos.
+    content : Consultorías, productos, cursos, talleres, conferencias y más en Economía Conductual y Ciencia de Datos.                                    
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : ¿Por qué combinamos?
@@ -13,4 +13,4 @@ about:
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Nuestro trabajo
-    content : Puedes conocer más de nuestros productos en nuestros casos de estudios y proyectos.
+    content : Puedes conocer más de nuestros productos en nuestros casos de estudios y proyectos.                                                         

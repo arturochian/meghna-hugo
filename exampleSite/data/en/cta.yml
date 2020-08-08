@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Grandes diseños, increibles productos"
+  content : "Utiliza el poder de la Ciencia de Datos con el entendimiento del comportamiento humano."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Inicia un proyecto con nosotros"
     link : "#contact"
