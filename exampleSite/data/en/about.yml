@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : ¿Qué hacemos?
+    content : Consultorías, productos, cursos, talleres, conferencias y más en Economía Conductual y Ciencia de Datos.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : ¿Por qué combinamos?
+    content : Los datos y el poder computacional unido con el entendimiento de la irracionalidad humana nos permite diseñar mejores productos y servicios.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Nuestro trabajo
+    content : Puedes conocer más de nuestros productos en nuestros casos de estudios y proyectos.
